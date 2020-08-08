@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(235, 235, 235) !important;
+    color: #28a745 !important;
+}
+.footer {
+    text-align: center;
+    color: rgb(110, 108, 108);
+    font-size: 15px;
+}
+.jumbotron {
+    padding: 2rem 2rem !important;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    background-color: rgb(202, 202, 202) !important;
+}
+.pills-gradient .nav-item .nav-link.active {
+    background: linear-gradient(40deg, #FFD86F, #FC6262);
+}
+.pills-gradient .nav-item {
+    margin-right: 1em;
+    margin-bottom: 2em;
+    border-radius: .25em;
+}
+.pills-gradient .nav-item .nav-link {
+    background: rgb(202, 202, 202);
+    color: #28a745;
+}
+.pills-gradient a:hover {
+    font-weight: bold !important;
+}
+.myNav-content {
+    margin: 2rem;
+}
+.p {
+    color: #28a745;
+}
+#myCarousel {
+    width: 70%;
+}
+.carousel-row {
+    align-content: center !important;
+}
+.news-jumbotron {
+    background: rgb(250, 164, 35) !important;
+}
+.my-menu {
+    border-radius: .45em;
+    color: #28a745;
+    border-width: 0.2rem;
+    border-style: solid;
+}
+
